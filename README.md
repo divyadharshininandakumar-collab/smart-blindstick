@@ -13,3 +13,4 @@
 
 ## Project Images
 ![My Smart Blind Stick](smart blind stick.mp4)
+Screenshot 2026-06-14 164059.png
