@@ -12,5 +12,7 @@
 - NEO-6M GPS
 
 ## Project Images
-![My Smart Blind Stick](smart blind stick.mp4)
-Screenshot 2026-06-14 164059.png
+![output](Screenshot 2026-06-14 164059.png)
+
+## Demo Video
+[Watch Demo](smart blind stick.mp4)
