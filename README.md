@@ -12,4 +12,4 @@
 - NEO-6M GPS
 
 ## Project Images
-![My Smart Blind Stick](smartblindstick.mp4)
+![My Smart Blind Stick](smart blind stick.mp4)
