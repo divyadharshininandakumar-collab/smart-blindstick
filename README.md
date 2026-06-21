@@ -12,4 +12,3 @@
 - NEO-6M GPS
 
 ## Project Images
-(Add photos here)
